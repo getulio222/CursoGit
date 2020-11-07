@@ -2,3 +2,4 @@ Terra
 Marte
 Venus
 Saturno
+Uranio
